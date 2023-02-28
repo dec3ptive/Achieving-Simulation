@@ -1,0 +1,42 @@
+GOAL:
+I would like to further my c++ abilities with code that is undirected by a teacher.
+As such I am creating a game that resonates with me that also demonstrates difficult functionality.
+
+GAME DESIGN:
+The game is going to be a intensive simulation game. The simulation at any point can take a different turn from previous simulations based on randomness.
+Even so the randomness can be manipulated through the stats of the simulated characters. Each character will have a whole sheet of statistics and character info.
+Each of these stats can play a role in what they do each day. For example someone with a high degree of intellect may spend more time inventing new objects.
+Opposingly someone with a high degree of strength may make new buildings.
+The idea of the game is to provide a mix of a gameplay combined with viewing experience similar to a video.
+
+The game will run on a day to day basis. During which the game characters will pursue one action each day. 
+At any point in time there could be up to hundreds of different actions they could take that day. But only one action will be pursued that day. 
+Actions they take that day are more likely to be influenced based on their hobbies, interests, and statlines. Characters may also fall in love with other characters. Religions may be created. 
+The world may be changed or landscaped by the characters. Buildings may be created, destroyed. Fights may take place. Divorces may occur. Stats may change with actions. Hobbies might be picked up.
+The idea is that a lot may occur on a day. Or very little may occur that day.
+
+Another big aspect of the game is achievement hunting. Whenever something new is created. When a new action never before seen. New World changing events. 
+When any of these occur, an achievment is given to the player. Then the player may use that achievement in future gameplay.
+
+PLAYER INTERACTION:
+In such a simulation game the player doesn't provide the most active role in the game. The role they do provide is loose control of starting conditions.
+Once a achievement has been met, depending on the achievement, the player may then use that achievement as a starting point for future simulations.
+For example if a achievement stating that a character has achieved 100 intelligence is reached, then on the next simulation the player may create a character starting at that intelligence.
+If an achievement is that a certain building has been created, the player can start the simulation with that building in place.
+Thus the player is rewarded for achievments by allowing them to more easily pursue other achievments.
+Furthermore they have to consider when is the right time to start a new simluation as their current conditions may be unideal for pursuing other achievements.
+
+CONSTRAINTS:
+Running an entire nation like this would be way beyond my scope, paygrade, and skill level. As such the game needs constraints.
+At most there may be 7 characters simulated at a time. The obscurity of the number is funny to me. Continuing the theme the amount of buildings available will be 16. 
+The characters will understand these constraints and may destroy buildings in place for new ones. These limitations should also provide somewhat of a nice chibi look as well.
+
+PROJECT GROWTH:
+An approach to the game that I would like to take is that anyone may always be able to add their own aspects to the game should they be programmitically inclined.
+Including me as a long term. As such I seek to implement the game in a way that allows someone to add their own animations, acheivements, and character designs.
+If I implement the game in such a meta approach I hope to allow very long term growth to the game. This also allows me to grow better as a programmer.
+
+MONOTIZATION:
+If the game turns out awesome I may place it on steam. A user who has purchased the game may add to it as they wish.
+If the game turns out not so awesome I may just leave it as an open source git project and see if someone else takes a liking to it and makes it awesome.
+Overall I hope for the game to be a long term time investment on my part. For fun and growth.
