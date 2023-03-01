@@ -1,0 +1,20 @@
+Overall basis:
+    Characters will be given 6 base major stats (mostly D&D stats) strength, dexterity, constitution, intellegence, creativity, charisma. 
+    Characters will have an unlimited amount of minor stats. These stats will be used to determine events that may take place for them. 
+        An example would be an animal lover. If the stat is low then any events involving animals will generally not occur for this character. If it were high they would have much more animal events.
+
+    All stats will be a number between 1 and 100. A 1 represents no interest or hate for the subject. 100 represents love or extreme interest for the subject.
+
+Major stats:
+    strength (Physically strong)
+    dexterity (skill in performing stats)
+    constitution (Healthiness)
+    intellegence (Smarts)
+    creativity (ingenuity)
+    charisma (Likeability)
+
+
+minor stats:
+    Animals (1 hates animals, 100 loves them)
+
+

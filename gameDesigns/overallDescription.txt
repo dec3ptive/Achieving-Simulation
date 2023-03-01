@@ -9,7 +9,7 @@ Each of these stats can play a role in what they do each day. For example someon
 Opposingly someone with a high degree of strength may make new buildings.
 The idea of the game is to provide a mix of a gameplay combined with viewing experience similar to a video.
 
-The game will run on a day to day basis. During which the game characters will pursue one action each day. 
+The game will run on a day to day basis. During which the game characters will pursue one action each day. Each day will last 30 seconds.
 At any point in time there could be up to hundreds of different actions they could take that day. But only one action will be pursued that day. 
 Actions they take that day are more likely to be influenced based on their hobbies, interests, and statlines. Characters may also fall in love with other characters. Religions may be created. 
 The world may be changed or landscaped by the characters. Buildings may be created, destroyed. Fights may take place. Divorces may occur. Stats may change with actions. Hobbies might be picked up.
@@ -30,6 +30,7 @@ CONSTRAINTS:
 Running an entire nation like this would be way beyond my scope, paygrade, and skill level. As such the game needs constraints.
 At most there may be 7 characters simulated at a time. The obscurity of the number is funny to me. Continuing the theme the amount of buildings available will be 16. 
 The characters will understand these constraints and may destroy buildings in place for new ones. These limitations should also provide somewhat of a nice chibi look as well.
+The background/world of the game may also be altered based on events. Generally there will only be one background/world inplaced at a time.
 
 PROJECT GROWTH:
 An approach to the game that I would like to take is that anyone may always be able to add their own aspects to the game should they be programmitically inclined.

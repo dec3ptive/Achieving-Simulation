@@ -1,0 +1,4 @@
+This text document will just hold general game ideas as well as writing anything down that I need to remember or think about during the coding process.
+
+Implement?
+Characters will be given an overall decision they make each morning. i.e. should the town make x building.
