@@ -16,5 +16,10 @@ Major stats:
 
 minor stats:
     Animals (1 hates animals, 100 loves them)
+    Attractiveness (Ugly asf, 100 Quinn)
+    Lawful (1 very chaotic, 100 Wouldn't even think of doing bad)
+    Religion (1 extreme athiest, 100 the Pope)
+    
+    
 
 
