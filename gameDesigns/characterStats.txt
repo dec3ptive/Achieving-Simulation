@@ -4,18 +4,69 @@ Overall basis:
         An example would be an animal lover. If the stat is low then any events involving animals will generally not occur for this character. If it were high they would have much more animal events.
 
     All stats will be a number between 1 and 100. A 1 represents no interest or hate for the subject. 100 represents love or extreme interest for the subject.
+    A 0 in any number means that it is not applicable yet.
 
 Major stats:
-    strength (Physically strong)
-    dexterity (skill in performing stats)
-    constitution (Healthiness)
-    intellegence (Smarts)
-    creativity (ingenuity)
-    charisma (Likeability)
+    Strength (1 weak, 100 Physically strong)
+    Dexterity (1 blunders everything, 100 great skill in performing tasks)
+    Constitution (1 death bed, 100 apple a day)
+    Intellegence (1 dumb, 100 all the Smarts)
+    Creativity (1 uninventive, 100 great ingenuity)
+    Charisma (1 unlikeable, 100 Likeability)
 
 
 minor stats:
+    Acrobatic(1 Ormond family, 100 idk, a good acrobat)
     Animals (1 hates animals, 100 loves them)
-    lawful (1 hates law, 100 is extremely lawful)
+    Artistic (1 hates art, 100 artist)
+    Attractiveness (1 Ugly asf, 100 Quinn)
+    Companionship (1 wants to be left alone, 100 needs someone at all times)
+    Competitive(1 hate competition, 100 can't live without it)
+    crazy(1 rather normal, 100 insane)
+    Gluttony (1 Anorexic, 100 Eats everything)
+    Greed (1 has no desire, 100 wants everything for themself)
+    Happiness (1 sadge, 100 Just a happy dog)
+    Heroic(1 timid, 100 All Might)
+    Impulsive(1 doesn't do new things, 100 never does the same thing)
+    Lawful (1 very chaotic, 100 Wouldn't even think of doing bad)
+    Lustful (1 asexual, 100 sexual symbol)
+    MagicCapacity(1 can't use magic, 100 totally wizard bro)
+    Manipulative(1 Genuine, 100 deceitful)
+    Medicine(1 Quinn, 100 Doctor)
+    Pacifism(1 Prone to violence, 100 Pacifist)
+    Pride (1 extremely humble, extensively proud)
+    Reckless(1 doesn't do danger, 100 does extremely dangerous actions)
+    Religion (1 extreme athiest or hatred of religion, 100 the Pope)
+    Rude(1 very nice, 100 extremely mean)
+    Slothful (1 has no laziness, 100 refuses to move)
+    Wrathful (1 no bad bone in the body, 100 Extreme Hatred)
+    
+Hobbies:
+
+
+General Character:
+    Gender - M/F
+    Race - Human, Elven, Orc, Dwarf, Undead, Demon, Robot, Alien
+    Sexuality - Gay, Straight
+    Married - Yes, No
+    Partner - {Insert partners name here}, N/A
+    Friends - [List of friends]
+    Parents - [Parents names]
+    Hates - [List of disliked individuals]
+    PreferredWeapon - {Insert weapon name here}, N/A
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
 

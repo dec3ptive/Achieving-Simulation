@@ -5,7 +5,7 @@ Event design:
         Conflicting: A character partakes in a action directly opposing to another characters action such as fighting, stopping someone from hunting due to high animal love stat.
         Voting: All characters vote on a subject matter at a days start about community goals such as building creation, leader voting.
         WorldChanging: An event occurs that changes the landscape such as a volcano going off, extreme rainstorms led to jungle growth.
-        Legendary: An event that is extremely unlikely occurs. Such as a character ascending to heaven, a portal to another dimension occurs. These are quite often just rare versions of other events.
+        Legendary: An event that is extremely unlikely occurs. Such as a character ascending to godhood, a portal to another dimension occurs. These are quite often just rare versions of other events.
 
     All events are associated with an achievement the first time they take place.
     Some events cause little to no change. Other cause drastic changes. Generally major changes will change character stats quite a lot, while minor ones have little effect on character stats.
