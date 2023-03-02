@@ -16,5 +16,6 @@ Major stats:
 
 minor stats:
     Animals (1 hates animals, 100 loves them)
+    lawful (1 hates law, 100 is extremely lawful)
 
 

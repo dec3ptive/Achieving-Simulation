@@ -1,4 +1,18 @@
 This text document will just hold general game ideas as well as writing anything down that I need to remember or think about during the coding process.
 
+Different races available to the characters (Male and female for each):
+White,
+Black,
+Elven,
+Orc,
+Dwarf,
+Undead,
+Demon,
+Robot,
+Alien
+
+Ideas:
+How should the avhievement unlocked show the characters doing the achievement.
+
 Implement?
 Characters will be given an overall decision they make each morning. i.e. should the town make x building.
