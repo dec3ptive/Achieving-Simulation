@@ -16,7 +16,7 @@ The world may be changed or landscaped by the characters. Buildings may be creat
 The idea is that a lot may occur on a day. Or very little may occur that day.
 
 Another big aspect of the game is achievement hunting. Whenever something new is created. When a new action never before seen. New World changing events. 
-When any of these occur, an achievment is given to the player. Then the player may use that achievement in future gameplay.
+When any of these occur, an achievment is given to the player. Then the player may use that achievement at initializatoin in future gameplay.
 
 PLAYER INTERACTION:
 In such a simulation game the player doesn't provide the most active role in the game. The role they do provide is loose control of starting conditions.

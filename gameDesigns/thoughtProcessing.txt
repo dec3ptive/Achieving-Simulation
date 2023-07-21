@@ -12,7 +12,7 @@ Robot,
 Alien
 
 Ideas:
-How should the avhievement unlocked show the characters doing the achievement.
+How should the achievement unlocked show the characters doing the achievement.
 
 Implement?
 Characters will be given an overall decision they make each morning. i.e. should the town make x building.

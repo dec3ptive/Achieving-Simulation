@@ -1,0 +1,10 @@
+A large part of the game is initializing a run. During run initialization the player is allowed to create up to seven characters. Each character's stats may be changed depending on if
+the player has achieved certain achievements in previous runs. For example you can only change a characters wrath stat assuming you have achieved a 100 stat on wrath previously.
+
+Once they have been previously achieved you can:
+You can change a character to hate or like other characters
+You can change the current world state.
+You can place any buildings.
+You can edit any character and their stats.
+
+

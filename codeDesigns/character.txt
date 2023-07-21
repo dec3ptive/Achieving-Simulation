@@ -1,0 +1,36 @@
+General Character:
+    name String;
+    gender char;
+    race String;
+    sexuality char; // s, b, g
+    married bool;
+    partner Character*; //points to the characters love/partner
+    friends Character*[]; //holds pointers to a characters friends
+    mom Character*; //points to characters mom
+    dad Character*; //points to characters dad
+    hates Character[]; //holds pointers to people a character hates
+    likes Character[]; //holds pointers to people a character likes
+    preferredWeapon Weapon; //Decides which weapon object the character prefers, can be none.
+    majorStats majorDic; //A dictionary of a characters major stats.
+    minorStats minorDic; //A dictionary of a characters minor stats.
+    hobbies hobbies[]; //A list of a characters hobbies.
+
+
+Character init variables:
+    name = "";
+    char = F;
+    race = "Human";
+    Sexuality = s;
+    married = False;
+    partner = Character()*;
+    friends = Character()*[];
+    mom = Character()*;
+    dad = Character()*;
+    hates = Character()*[];
+    likes = Character()*[];
+    preferredWeapon = Weapon();
+    majorStats = majorDic();
+    minorStats = minorDic();
+    hobbies = hobbies();
+    stats = characterStats();
+    hunger = 50;

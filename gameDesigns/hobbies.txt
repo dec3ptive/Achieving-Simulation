@@ -1,0 +1,38 @@
+Hobbies are simply actions that a Character often takes or that they particularly like doing. They often play a big part in what a character may do as an event.
+
+Some hobbies are only given under certain conditions (i.e. if magic doesn't exist then they don't have a magic hobby).
+
+This is a list of available hobbies.
+acting
+animal care
+archaelogy
+archery
+art
+botany
+chemistry
+church
+collecting
+comedy
+cooking
+fighting
+fishing
+game Creation
+hunting
+magic casting
+magic creation
+mathematics
+meditation
+music
+overthinking
+politics
+research
+running
+shooting
+sleeping around
+space travel
+sports
+standup magic
+weapon creation
+working out
+writing
+

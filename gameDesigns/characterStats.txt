@@ -6,6 +6,13 @@ Overall basis:
     All stats will be a number between 1 and 100. A 1 represents no interest or hate for the subject. 100 represents love or extreme interest for the subject.
     A 0 in any number means that it is not applicable yet.
 
+    When a character is born they are given base stats in all major stats and a large chunk of minor stats. Generally a base stat will be anywhere between 20 - 50.
+    Some minor stats are not immediatly applicable (For example MagicCapacity in a world without magic). As such it is set to 0.
+    0's in a stat will make it impossible for events that require that stat to occur.
+
+    Children walk around aimlessly most of the time until they grow up into adults after 20 days.
+    At 20 days they are automatically given a hobby and become an adult.
+
 Major stats:
     Strength (1 weak, 100 Physically strong)
     Dexterity (1 blunders everything, 100 great skill in performing tasks)
@@ -16,30 +23,32 @@ Major stats:
 
 
 minor stats:
-    Acrobatic(1 Ormond family, 100 idk, a good acrobat)
-    Animals (1 hates animals, 100 loves them)
-    Artistic (1 hates art, 100 artist)
-    Attractiveness (1 Ugly asf, 100 Quinn)
-    Companionship (1 wants to be left alone, 100 needs someone at all times)
-    Competitive(1 hate competition, 100 can't live without it)
-    crazy(1 rather normal, 100 insane)
-    Gluttony (1 Anorexic, 100 Eats everything)
-    Greed (1 has no desire, 100 wants everything for themself)
-    Happiness (1 sadge, 100 Just a happy dog)
-    Heroic(1 timid, 100 All Might)
-    Impulsive(1 doesn't do new things, 100 never does the same thing)
-    Lawful (1 very chaotic, 100 Wouldn't even think of doing bad)
-    Lustful (1 asexual, 100 sexual symbol)
-    MagicCapacity(1 can't use magic, 100 totally wizard bro)
-    Manipulative(1 Genuine, 100 deceitful)
-    Medicine(1 Quinn, 100 Doctor)
-    Pacifism(1 Prone to violence, 100 Pacifist)
-    Pride (1 extremely humble, extensively proud)
-    Reckless(1 doesn't do danger, 100 does extremely dangerous actions)
-    Religion (1 extreme athiest or hatred of religion, 100 the Pope)
-    Rude(1 very nice, 100 extremely mean)
-    Slothful (1 has no laziness, 100 refuses to move)
-    Wrathful (1 no bad bone in the body, 100 Extreme Hatred)
+    Acrobatic(1 Ormond family, 100 idk, a good acrobat) (Base:)
+    Animals (1 hates animals, 100 loves them) (Base:)
+    Artistic (1 hates art, 100 artist) (Base:)
+    Attractiveness (1 Ugly asf, 100 Quinn) (Base:)
+    Companionship (1 wants to be left alone, 100 needs someone at all times) (Base:)
+    Competitive(1 hate competition, 100 can't live without it) (Base:)
+    crazy(1 rather normal, 100 insane) (Base:)
+    Gluttony (1 Anorexic, 100 Eats everything) (Base:)
+    Greed (1 has no desire, 100 wants everything for themself) (Base:)
+    Happiness (1 sadge, 100 Just a happy dog) (Base:)
+    Heroic(1 timid, 100 All Might) (Base:)
+    Impulsive(1 doesn't do new things, 100 never does the same thing) (Base:)
+    Lawful (1 very chaotic, 100 Wouldn't even think of doing bad) (Base:)
+    Logical (1 Very emotionally driven, 100 Emotion has no hold on decisions)
+    Lustful (1 asexual, 100 sexual symbol) (Base:)
+    MagicCapacity(1 can't use magic, 100 totally wizard bro) (Base:)
+    Manipulative(1 Genuine, 100 deceitful) (Base:)
+    Medicine(1 Quinn, 100 Doctor) (Base:)
+    Pacifism(1 Prone to violence, 100 Pacifist) (Base:)
+    Pride (1 extremely humble, extensively proud) (Base:)
+    Reckless(1 doesn't do danger, 100 does extremely dangerous actions) (Base:)
+    Religion (1 extreme athiest or hatred of religion, 100 the Pope) (Base:)
+    Rude(1 very nice, 100 extremely mean) (Base:)
+    Slothful (1 has no laziness, 100 refuses to move) (Base:)
+    Wrathful (1 no bad bone in the body, 100 Extreme Hatred) (Base:)
+    Scientific(1 Believes only what sees, 100 Strives for understanding and progress)
     
 Hobbies:
 
@@ -47,13 +56,17 @@ Hobbies:
 General Character:
     Gender - M/F
     Race - Human, Elven, Orc, Dwarf, Undead, Demon, Robot, Alien
-    Sexuality - Gay, Straight
+    Sexuality - Gay, Straight, bi
     Married - Yes, No
     Partner - {Insert partners name here}, N/A
     Friends - [List of friends]
     Parents - [Parents names]
     Hates - [List of disliked individuals]
+    Likes - [List of liked individuals]
     PreferredWeapon - {Insert weapon name here}, N/A
+    stats - Stats
+    hunger - 1-100
+
 
     
     

@@ -3,6 +3,7 @@ Event design:
         Minor: A character partakes in a rather regular action such as eating, painting.
         Major: A character partakes in a rather distinct action such as murder, new religion creation.
         Conflicting: A character partakes in a action directly opposing to another characters action such as fighting, stopping someone from hunting due to high animal love stat.
+        Mingling: A character partakes in a action that directly requires another character such as kissing, 
         Voting: All characters vote on a subject matter at a days start about community goals such as building creation, leader voting.
         WorldChanging: An event occurs that changes the landscape such as a volcano going off, extreme rainstorms led to jungle growth.
         Legendary: An event that is extremely unlikely occurs. Such as a character ascending to godhood, a portal to another dimension occurs. These are quite often just rare versions of other events.
@@ -11,10 +12,12 @@ Event design:
     Some events cause little to no change. Other cause drastic changes. Generally major changes will change character stats quite a lot, while minor ones have little effect on character stats.
     Legendary events have the intent of thorough achievement hunting, they generally don't just go off randomly.
     On a day start the order of operations will be:
-        WorldChanging
-        Voting
+        worldChanging
+        voting
         legendary
         minor, major
-        Conflicting
+        conflicting, mingling
 
-    Since all character chosen events will occur simaltaneously conflicting may only occur if two characters are at the same location.
+    Since all character chosen events will occur simaltaneously conflicting/mingling may only occur if two characters are at the same location.
+
+    
