@@ -38,6 +38,12 @@ Including me as a long term. As such I seek to implement the game in a way that 
 If I implement the game in such a meta approach I hope to allow very long term growth to the game. This also allows me to grow better as a programmer.
 
 MONOTIZATION:
-If the game turns out awesome I may place it on steam. A user who has purchased the game may add to it as they wish.
+If the game turns out awesome I may sell it for money. A user who has purchased the game may add to it as they wish.
 If the game turns out not so awesome I may just leave it as an open source git project and see if someone else takes a liking to it and makes it awesome.
 Overall I hope for the game to be a long term time investment on my part. For fun and growth.
+
+Screens:
+The game will have 3 main screens
+The main menu (This includes settings and other main menu stuff).
+The run initialization (This will be the main way the player interacts with the game. They can create a run, add characters, set up buildings, change the world state, etc).
+A run itself (When a simulation begins it is called a run. This is where the player watches their simulation take place).

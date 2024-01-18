@@ -3,52 +3,53 @@ Overall basis:
     Characters will have an unlimited amount of minor stats. These stats will be used to determine events that may take place for them. 
         An example would be an animal lover. If the stat is low then any events involving animals will generally not occur for this character. If it were high they would have much more animal events.
 
-    All stats will be a number between 1 and 100. A 1 represents no interest or hate for the subject. 100 represents love or extreme interest for the subject.
+    All stats will be a number between 1 and 100. A 1 represents no interest, hate, or lack of the subject. 100 represents love, extreme interest, or great expression of the subject.
     A 0 in any number means that it is not applicable yet.
 
     When a character is born they are given base stats in all major stats and a large chunk of minor stats. Generally a base stat will be anywhere between 20 - 50.
     Some minor stats are not immediatly applicable (For example MagicCapacity in a world without magic). As such it is set to 0.
     0's in a stat will make it impossible for events that require that stat to occur.
 
-    Children walk around aimlessly most of the time until they grow up into adults after 20 days.
-    At 20 days they are automatically given a hobby and become an adult.
+    Children walk around aimlessly most of the time until they grow up into adults after 15 days.
+    At 15 days they are automatically given a hobby and become an adult. There stats are also changed depending on their parents.
 
 Major stats:
-    Strength (1 weak, 100 Physically strong)
-    Dexterity (1 blunders everything, 100 great skill in performing tasks)
-    Constitution (1 death bed, 100 apple a day)
-    Intellegence (1 dumb, 100 all the Smarts)
-    Creativity (1 uninventive, 100 great ingenuity)
-    Charisma (1 unlikeable, 100 Likeability)
+    Strength (1 weak, 100 Physically strong) (Base: 50)
+    Dexterity (1 blunders everything, 100 great skill in performing tasks) (Base: 50)
+    Constitution (1 death bed, 100 apple a day) (Base: 50)
+    Intellegence (1 dumb, 100 all the Smarts) (Base: 50)
+    Creativity (1 uninventive, 100 great ingenuity) (Base: 50)
+    Charisma (1 unlikeable, 100 Likeability) (Base: 50)
 
 
 minor stats:
-    Acrobatic(1 Ormond family, 100 idk, a good acrobat) (Base:)
-    Animals (1 hates animals, 100 loves them) (Base:)
-    Artistic (1 hates art, 100 artist) (Base:)
-    Attractiveness (1 Ugly asf, 100 Quinn) (Base:)
-    Companionship (1 wants to be left alone, 100 needs someone at all times) (Base:)
-    Competitive(1 hate competition, 100 can't live without it) (Base:)
-    crazy(1 rather normal, 100 insane) (Base:)
-    Gluttony (1 Anorexic, 100 Eats everything) (Base:)
-    Greed (1 has no desire, 100 wants everything for themself) (Base:)
-    Happiness (1 sadge, 100 Just a happy dog) (Base:)
-    Heroic(1 timid, 100 All Might) (Base:)
-    Impulsive(1 doesn't do new things, 100 never does the same thing) (Base:)
-    Lawful (1 very chaotic, 100 Wouldn't even think of doing bad) (Base:)
-    Logical (1 Very emotionally driven, 100 Emotion has no hold on decisions)
-    Lustful (1 asexual, 100 sexual symbol) (Base:)
-    MagicCapacity(1 can't use magic, 100 totally wizard bro) (Base:)
-    Manipulative(1 Genuine, 100 deceitful) (Base:)
-    Medicine(1 Quinn, 100 Doctor) (Base:)
-    Pacifism(1 Prone to violence, 100 Pacifist) (Base:)
-    Pride (1 extremely humble, extensively proud) (Base:)
-    Reckless(1 doesn't do danger, 100 does extremely dangerous actions) (Base:)
-    Religion (1 extreme athiest or hatred of religion, 100 the Pope) (Base:)
-    Rude(1 very nice, 100 extremely mean) (Base:)
-    Slothful (1 has no laziness, 100 refuses to move) (Base:)
-    Wrathful (1 no bad bone in the body, 100 Extreme Hatred) (Base:)
-    Scientific(1 Believes only what sees, 100 Strives for understanding and progress)
+    Acrobatic(1 Ormond family, 100 idk, a good acrobat) (Base: 50)
+    Animals (1 hates animals, 100 loves them) (Base: 50)
+    Artistic (1 hates art, 100 artist) (Base: 30)
+    Attractiveness (1 Ugly asf, 100 Quinn) (Base: 50)
+    Companionship (1 wants to be left alone, 100 needs someone at all times) (Base:50)
+    Competitive(1 hate competition, 100 can't live without it) (Base:30)
+    crazy(1 rather normal, 100 insane) (Base: 15)
+    Gluttony (1 Anorexic, 100 Eats everything) (Base: 30)
+    Greed (1 has no desire, 100 wants everything for themself) (Base: 50)
+    Happiness (1 sadge, 100 Just a happy dog) (Base: 50)
+    Heroic(1 timid, 100 All Might) (Base: 40)
+    Impulsive(1 doesn't do new things, 100 never does the same thing) (Base: 50)
+    Lawful (1 very chaotic, 100 Wouldn't even think of doing bad) (Base: 40)
+    Logical (1 Very emotionally driven, 100 Emotion has no hold on decisions) (Base: 50)
+    Lustful (1 asexual, 100 sexual symbol) (Base: 30)
+    MagicCapacity(1 can't use magic, 100 totally wizard bro) (Base: 0)
+    Manipulative(1 Genuine, 100 deceitful) (Base: 20)
+    Medicine(1 Quinn, 100 Doctor) (Base: 30)
+    Pacifism(1 Prone to violence, 100 Pacifist) (Base: 50)
+    Pride (1 extremely humble, extensively proud) (Base: 30)
+    Racist(1 Doesn't care about races, hates other races) (Base: 10)
+    Reckless(1 doesn't do danger, 100 does extremely dangerous actions) (Base: 50)
+    Religion (1 extreme athiest or hatred of religion, 100 the Pope) (Base: 10)
+    Rude(1 very nice, 100 extremely mean) (Base: 30)
+    Scientific(1 Believes only what sees, 100 Strives for understanding and progress) (Base: 30)
+    Slothful (1 has no laziness, 100 refuses to move) (Base: 30)
+    Wrathful (1 no bad bone in the body, 100 Extreme Hatred) (Base: 30)
     
 Hobbies:
 

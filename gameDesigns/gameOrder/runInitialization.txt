@@ -1,3 +1,5 @@
+This screen acts as a intermediary between the menu and the game running.
+
 A large part of the game is initializing a run. During run initialization the player is allowed to create up to seven characters. Each character's stats may be changed depending on if
 the player has achieved certain achievements in previous runs. For example you can only change a characters wrath stat assuming you have achieved a 100 stat on wrath previously.
 
